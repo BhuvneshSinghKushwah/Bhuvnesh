@@ -3,8 +3,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hi, I'm Bhuvnesh Singh, a Backend engineer, currently working at a startup personaliz.ai.
 
-<a href="#"><img align="right" src="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
 **Languages and Tools:**
 
 <p>
@@ -14,5 +12,10 @@ Hi, I'm Bhuvnesh Singh, a Backend engineer, currently working at a startup perso
 <img src="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/blob/master/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 </p>
 
-Short Description huh? 🥲
+Short Description huh? 🥲 We can talk further 
+
+<a href="mailto:official.bhuvneshsingh@gmail.com">
+  <img src="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/blob/master/images/social-gmail.svg" width="100" height="100" />
+</a>
+
 
