@@ -16,5 +16,4 @@ Hi, I'm Bhuvnesh Singh, a Backend engineer, currently working at a startup perso
 
 ---
 
-<a href="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/" alt="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/"><img src="https://github.com/user-attachments/assets/ed13d22d-8626-42dd-b7c6-fee7e8390292"
-></a>
+<a href="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/" alt="https://github.com/BhuvneshSinghKushwah/Bhuvnesh/"><img src="https://github.com/user-attachments/assets/ed13d22d-8626-42dd-b7c6-fee7e8390292" /></a>
